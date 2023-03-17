@@ -5,4 +5,4 @@ const indecisive = {
 indecisive.lunch = "tacos";
 indecisive.lunch = "chips";
 
-console.log(indecisive.lunch)
+console.log(indecisive.lunch) 
